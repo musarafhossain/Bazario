@@ -2,11 +2,9 @@
 A multivendor e-commerce website.
 
 ## Multivendor Ecomerce Website
-================================================
 This is multivendor ecommerce website. Customers can purchase web scripts in various technologies.
 
 # Features
-------------------------------------------------
 -   Website
     -   Home Page
         -   Header
@@ -27,7 +25,7 @@ This is multivendor ecommerce website. Customers can purchase web scripts in var
     -   Order Success Page
     -   Order Failure Page
     -   Multilingua
-================================================
+------------------------------------------------
 -   Customer Panel
     -   Register
     -   Login
@@ -37,7 +35,7 @@ This is multivendor ecommerce website. Customers can purchase web scripts in var
             -   Downloads Scripts
         -   Profile
         -   Change Password
-================================================
+------------------------------------------------
 -   Seller Panel
     -   Register
     -   Login
@@ -49,7 +47,7 @@ This is multivendor ecommerce website. Customers can purchase web scripts in var
         -   Customers
         -   profile
         -   Change Password
-================================================
+------------------------------------------------
 -   Admin Panel
     -   Manage Sellers
     -   Manage Categories
