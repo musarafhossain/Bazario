@@ -66,3 +66,7 @@ This is multivendor ecommerce website. Customers can purchase web scripts in var
     -   `django-admin startproject backend_api`
 6. Run Django project
     -   `python3 manage.py runserver`
+7. Install PostgreSQL
+8. Install PgAdmin4
+9. Install psycopg2-binary package
+    -   `pip install psycopg2-binary`
