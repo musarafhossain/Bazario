@@ -59,10 +59,10 @@ This is multivendor ecommerce website. Customers can purchase web scripts in var
 1. Python
 2. Create Virtual Environment
 3. Activate Viruial Environment
-    `source env/bin/activate`
+    -   `.\backend\.venv\Scripts\activate`
 4. Install Django
-    `pip install django`
+    -   `pip install django`
 5. Create Django project
-    `django-admin startproject backend_api`
+    -   `django-admin startproject backend_api`
 6. Run Django project
-    `python3 manage.py runserver`
+    -   `python3 manage.py runserver`
