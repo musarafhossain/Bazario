@@ -54,3 +54,15 @@ This is multivendor ecommerce website. Customers can purchase web scripts in var
     -   Manage Products
     -   Manage Customers
     -   Manage Orders
+
+# Setup project and Creating database models
+1. Python
+2. Create Virtual Environment
+3. Activate Viruial Environment
+    `source env/bin/activate`
+4. Install Django
+    `pip install django`
+5. Create Django project
+    `django-admin startproject backend_api`
+6. Run Django project
+    `python3 manage.py runserver`
